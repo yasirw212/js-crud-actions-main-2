@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "Essential Backpack",
+      "price": "259.99",
+      "quantity": "5",
+      "color": "green",
+      "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+    },
+    {
+      "name": "Rugged Hiking Boots",
+      "price": "55.99",
+      "quantity": "25",
+      "id": "9eb14071-ff84-4cb5-96ac-ac74da7b409e",
+      "color": "brown"
+    },
+    {
+      "name": "Kayak",
+      "price": "299.99",
+      "quantity": "3",
+      "color": "yellow",
+      "description": "They float",
+      "id": "08f6e5b5-4b62-43fb-acdb-d905d0d4cbc8"
+    },
+    {
+      "name": "Trail Mix",
+      "price": "10.99",
+      "quantity": "30",
+      "color": "",
+      "description": "They're delicious",
+      "id": "0ac4ad68-f2e4-410b-b130-770f86a6d12d"
+    }
+  ]
+}
